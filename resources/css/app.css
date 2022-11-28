@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* @layer components {
+    .btn-link {
+        @apply inline-block px-4 py-2 bg-indigo-700 rounded-md font-bold text-sm text-white uppercase tracking-widest hover:bg-indigo-600 active:bg-indigo-800 focus:outline-none focus:border-indigo-900 focus:shadow-outline-indigo disabled:opacity-25 transition ease-in-out duration-150;
+    }
+    .btn-lg {
+        @apply px-6 py-3;
+    }
+    } */
+
